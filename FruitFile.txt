@@ -1,0 +1,2 @@
+"Apple: 24","Banana: 15","Grapes: 10","Cherry: 10"
+,Melon: 5,Peach : 44,Nectrine : 10,Red Grapes : 15,Banana : 20,Apple : 30,string,ReD Grapes : 15,string
